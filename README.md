@@ -4,3 +4,6 @@ Joguinho criado com a intenção de explorar minhas habilidade em JavaScript. Pa
 
 
 Fuja da CLT e colete todos os ABSOLUTE CINEMA! 
+
+
+Versão atualizada: https://evymonteiro.github.io/game-letterboxd-2.0/
